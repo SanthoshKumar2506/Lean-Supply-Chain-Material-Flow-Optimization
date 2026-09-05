@@ -50,5 +50,5 @@ Inconsistent supplier lead times and variable quality created ripple effects acr
 
 ## Conclusion
 
-This project shows how Lean tools - Value Stream Mapping, Kanban, and 6S — can turn a reactive, buffer-heavy supply chain into a flow-driven system that responds to actual demand. By tracing material movement from supplier to production line, the redesign cuts lead time nearly in half, frees up over a fifth of tied-up inventory, and removes more than a third of unnecessary internal travel — without adding headcount or new infrastructure. The same framework scales to any multi-supplier manufacturing environment facing similar delivery variability and inventory bloat.
+This project shows how Lean tools - Value Stream Mapping, Kanban, and 6S - can turn a reactive, buffer-heavy supply chain into a flow-driven system that responds to actual demand. By tracing material movement from supplier to production line, the redesign cuts lead time nearly in half, frees up over a fifth of tied-up inventory, and removes more than a third of unnecessary internal travel — without adding headcount or new infrastructure. The same framework scales to any multi-supplier manufacturing environment facing similar delivery variability and inventory bloat.
 
