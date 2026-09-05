@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyzes the inbound supply chain of an EV component manufacturer sourcing 5 critical components from 5 suppliers. Using Lean principles — value, value stream, flow, pull, perfection - it designs a future-state material flow built on Value Stream Mapping (VSM), Kanban pull replenishment, 6S, and standardized work.
+This project analyzes the inbound supply chain of an EV component manufacturer sourcing 5 critical components from 5 suppliers. Using Lean principles - value, value stream, flow, pull, perfection - it designs a future-state material flow built on Value Stream Mapping (VSM), Kanban pull replenishment, 6S, and standardized work.
 
 ## Why This Matters
 
