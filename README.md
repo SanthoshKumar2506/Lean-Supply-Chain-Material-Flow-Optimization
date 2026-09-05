@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyzes the inbound supply chain of an EV component manufacturer sourcing 5 critical components from 5 suppliers. Using Lean principles — value, value stream, flow, pull, perfection — it designs a future-state material flow built on Value Stream Mapping (VSM), Kanban pull replenishment, 6S, and standardized work.
+This project analyzes the inbound supply chain of an EV component manufacturer sourcing 5 critical components from 5 suppliers. Using Lean principles — value, value stream, flow, pull, perfection - it designs a future-state material flow built on Value Stream Mapping (VSM), Kanban pull replenishment, 6S, and standardized work.
 
 ## Why This Matters
 
@@ -22,15 +22,15 @@ Inconsistent supplier lead times and variable quality created ripple effects acr
 
 ## Approach
 
-**Measure** — 12 months of operating data across 60 supplier-month observations (demand, lead time, defects, fill rate, cost)
+**Measure** - 12 months of operating data across 60 supplier-month observations (demand, lead time, defects, fill rate, cost)
 
-**Diagnose** — Supplier scorecards, lead-time variability, defect-rate analysis, and current-state VSM
+**Diagnose** - Supplier scorecards, lead-time variability, defect-rate analysis, and current-state VSM
 
 ![Supplier Performance Snapshot](images/supplier-performance.png)
 
 ![Current-State Value Stream](images/current-state-value-stream.png)
 
-**Design** — Kanban pull replenishment sized on daily demand, lead time, and a 15% safety factor; 6S and standardized work for the future state
+**Design** - Kanban pull replenishment sized on daily demand, lead time, and a 15% safety factor; 6S and standardized work for the future state
 
 ![Kanban & Inventory Planning](images/kanban-inventory-planning.png)
 
@@ -48,11 +48,4 @@ Inconsistent supplier lead times and variable quality created ripple effects acr
 | Average inventory | 5,019 units | 4,000 units | **20.3%** ↓ |
 | Value-added ratio | 22.9% | 34.3% | **+11.5 pts** |
 
-## Files
 
-- [`Presentation`](docs/Lean_Supply_Chain_Material_Flow_Project_Presentation.pptx) — full slide deck with charts and analysis
-- [`Analysis Workbook`](docs/Lean_Supply_Chain_Material_Flow_Analysis.xlsx) — underlying supplier and Kanban data
-
-## Skills Demonstrated
-
-Lean Six Sigma · Value Stream Mapping · Kanban · 6S · Supplier Scorecards · Material Planning · Root Cause Analysis · Standardized Work
